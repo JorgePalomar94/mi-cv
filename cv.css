@@ -1,0 +1,25 @@
+body {
+    background-color: beige;
+}
+
+.img {
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-top: -50px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.section {
+    max-width: 50%;
+}
+
+.fa-brands {
+    color: black;
+    font-size: 1.75rem !important;
+    margin-inline: 8px;
+}
